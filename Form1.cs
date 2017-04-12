@@ -99,6 +99,58 @@ namespace WindowsFormsApplication1
         double a, b;
         double c = 0;
         int cout = 0;
+    private void plus_Click(object sender, EventArgs e)
+        {
+            a = double.Parse(view.Text);
+            view.Text = view.Text + plus.Text;
+          cout = 1;
+          view.Clear();
+          //answ.Text = view.Text = view.Text + plus.Text; ;
+        }
 
+        private void min_Click(object sender, EventArgs e)
+        {
+            a = double.Parse(view.Text);
+            view.Text = view.Text + min.Text;
+            cout = 2;
+            view.Clear();
+        }
+
+        private void star_Click(object sender, EventArgs e)
+        {
+            a = double.Parse(view.Text);
+            view.Text = view.Text + star.Text;
+            cout = 3;
+            view.Clear();
+        }
+
+        private void slash_Click(object sender, EventArgs e)
+        {
+            a = double.Parse(view.Text);
+            view.Text = view.Text + slash.Text;
+            cout = 4;
+            view.Clear();
+        }
+
+        private void perc_Click(object sender, EventArgs e)
+        {
+            a = double.Parse(view.Text);
+            view.Text = view.Text + perc.Text;
+            cout = 5;
+            view.Clear();
+        }
+
+       
+
+        private void view_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rese_Click(object sender, EventArgs e)
+        {
+            view.Clear();
+            view.Focus();
+        }
     }
 }
