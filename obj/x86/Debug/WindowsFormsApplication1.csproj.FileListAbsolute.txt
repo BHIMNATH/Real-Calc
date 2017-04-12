@@ -1,0 +1,8 @@
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

@@ -1,0 +1,17 @@
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WindowsFormsApplication1\obj\x86\Debug\Mak.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Real Calc\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Real Calc\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Real Calc\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Real Calc\bin\Debug\WindowsFormsApplication1.exe
+F:\Real Calc\bin\Debug\WindowsFormsApplication1.pdb
+F:\Real Calc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Real Calc\obj\x86\Debug\Mak.csproj.GenerateResource.Cache
+F:\Real Calc\obj\x86\Debug\WindowsFormsApplication1.calcer.resources
+F:\Real Calc\obj\x86\Debug\Mak.csprojResolveAssemblyReference.cache
